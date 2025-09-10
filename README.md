@@ -5,7 +5,7 @@
 <header>ALURAFLIX</header>
 
 
-<h1>meu amigo totoro</h1>
+<h1>10 CURIOSIDADES SOBRE MEU AMIGO TOTORO</h1>
 <p>#meu amigo totoro</p>
 
 
